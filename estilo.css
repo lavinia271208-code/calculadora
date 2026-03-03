@@ -1,0 +1,29 @@
+body{
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center; /* centraliza horizontal */
+    align-items: center;     /* centraliza vertical */
+    background-color: #f0f0f0; /* opcional */
+}
+
+table{
+border: 10px solid#16A2b8;
+background-color: rgb(190, 185, 185);
+padding: 5px;
+}
+
+button{
+background-color: rgb(73, 71, 71);
+color: white;
+width: 45px;
+height: 45px;
+border-radius: 4px;
+}
+
+input{
+width: 189px;
+height: 30px;
+border: 0;
+text-align: right;
+}
